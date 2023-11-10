@@ -1,6 +1,7 @@
 {
   "type": "module",
   "name": "@ikasoba000/valid-ts",
+  "version": "0.1.0",
   "main": "./.dist/mod.js",
   "types": "./.dist/mod.d.ts",
   "scripts": {
