@@ -17,7 +17,7 @@ import {
   $string,
   createValidator,
   Infer,
-} from "../mod.ts";
+} from "https://esm.sh/gh/ikasoba/kensho-ts@0.1.0/mod.ts";
 
 const UserSchema = $object({
   id: $string,
