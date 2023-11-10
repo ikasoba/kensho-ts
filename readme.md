@@ -3,6 +3,9 @@
 <i>⚡kensho-ts⚡</i>
 </p>
 </h1>
+<p align="center">
+<a href="https://www.npmjs.com/package/@ikasoba000/kensho-ts"><img src="https://shields.io/npm/v/@ikasoba000/kensho-ts" /></a>
+</p>
 
 # about
 
