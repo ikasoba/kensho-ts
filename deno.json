@@ -1,0 +1,6 @@
+{
+  "lock": false,
+  "imports": {
+    "assert/": "https://deno.land/std@0.205.0/assert/"
+  }
+}
