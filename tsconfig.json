@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "noEmit": true,
+    "allowImportingTsExtensions": true,
+    "target": "es2022",
+    "module": "Node16",
+    "moduleResolution": "Node16",
+    "strict": true
+  },
+  "extends": [
+    "./deno.json"
+  ]
+}

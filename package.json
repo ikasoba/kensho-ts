@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "name": "@ikasoba000/valid-ts",
+  "main": "./.dist/mod.js",
+  "types": "./.dist/mod.d.ts",
+  "scripts": {
+    "build": "tsup-node mod.ts --treeshake --minify --dts --format esm -d .dist",
+    "prepare": "npm run build"
+  },
+  "devDependencies": {
+    "tsup": "^7.2.0",
+    "typescript": "^5.2.2"
+  }
+}
